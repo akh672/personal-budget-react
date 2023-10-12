@@ -1,6 +1,5 @@
 import axios from 'axios';
 import React, { useEffect, useState, useRef } from 'react';
-import'../App.css';
 import Chart from 'chart.js/auto';
 import * as d3 from 'd3';
 
